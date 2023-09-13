@@ -1,4 +1,4 @@
-# product-recommender-system
+# CMSE 823 - Numerical Linear Algebra Final Project
 
 ## Analyzing Iterative SVD algorithms for Large Scale Recommendation Systems
 
